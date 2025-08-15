@@ -1,0 +1,42 @@
+.card{
+    padding: 40px;
+    border-radius: 4pc;
+  }
+  .d-block{
+    padding: auto;
+    border-radius: 2pc;
+  }
+  .d-inline-block{
+    padding: auto;
+    border-radius: 1pc;
+  }
+  .align-text-top{
+    font-size: large;
+    font-weight: 400;
+    font-style: oblique;
+    float: center;
+  }
+.img-fluid{
+    padding: 2px;
+    border-radius: 2pc;
+}
+h1{
+  font-size: xx-large;
+}
+.text-center{
+    color: brown;
+}
+h4{
+    color: black;
+    font-style: italic;
+    font-size: medium;
+}
+.card-title{
+  font-size: medium;
+}
+.mt-5{
+  background-color: aqua;
+  padding: 5px;
+  border-style: solid;
+  border-radius: 2pc;
+}
